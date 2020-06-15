@@ -1,0 +1,48 @@
+
+body{
+	background: rgb(240, 4, 127);
+	font-family: Roboto, sans-serif;
+}
+
+.Menu{
+	background: yellow;
+}
+.Menu span{
+	font-size: 21px;
+	margin-left: 41%;	
+
+}
+
+.Line{
+	background: black;
+	margin:0;
+}
+.margBottom{
+	padding-bottom: 5px;
+}
+
+.btnXorO{
+	height: 150px;
+	width: 150px;
+	margin-left: 5px;
+	margin-top: 5px;
+	font-size: 100px;
+}
+.btnXorO:hover{
+	background: rgb(0, 255, 0);
+}
+.btnXorO:active{
+	background: rgb(255, 0, 0);
+}
+.Back{
+	height: 50px;
+	width: 250px;
+	margin-left: 40%;
+	margin-top: 10px;
+	border-radius: 8px;
+	background: white;
+}
+.Back:hover{
+	background: black;
+	color:white;
+}
