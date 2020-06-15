@@ -14,6 +14,7 @@ body{
 }
 
 .Line{
+	display: inline-block;
 	background: black;
 	margin:0;
 }
@@ -24,8 +25,7 @@ body{
 .btnXorO{
 	height: 150px;
 	width: 150px;
-	margin-left: 5px;
-	margin-top: 5px;
+	margin:5px;
 	font-size: 100px;
 }
 .btnXorO:hover{
